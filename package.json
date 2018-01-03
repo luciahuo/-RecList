@@ -35,6 +35,7 @@
     "babel-preset-es2015": "^6.22.0",
     "babel-preset-react": "^6.23.0",
     "babelify": "^7.3.0",
+    "bcrypt": "^1.0.3",
     "ejs": "*",
     "eslint": "*",
     "express": "*",
@@ -44,6 +45,8 @@
     "gulp-babel": "^6.1.2",
     "jquery": "*",
     "lodash": "*",
+    "mongodb": "^3.0.1",
+    "mongoose": "^5.0.0-rc1",
     "prop-types": "^15.6.0",
     "react": "*",
     "react-addons-test-utils": "*",
@@ -51,6 +54,7 @@
     "react-dom": "*",
     "react-redux": "*",
     "reactify": "*",
-    "redux": "*"
+    "redux": "*",
+    "superagent": "^3.8.2"
   }
 }
