@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { createStore } from 'redux';
-import { listReducer as reducers } from './reducers';
+import { mainReducer as reducers } from './reducers';
 import Layout from './components/Layout';
 import * as initialState from './initialState';
 import * as actions from './actions/index';

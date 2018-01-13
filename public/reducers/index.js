@@ -5,6 +5,6 @@ const mainReducer = (state, action) => {
     // handle action cases
   }
   return state;
-}
+};
 
 export {mainReducer};
